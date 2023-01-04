@@ -2,7 +2,6 @@ package Day6;
 import java.util.*;
 
 public class task1_UserInfo {
-    String UserInfo;
     String name;
     private int userId;
     String CompanyName;
