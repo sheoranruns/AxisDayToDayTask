@@ -28,7 +28,7 @@ public class task1_UserInfo {
     }
 
     public void displayuser() {
-        System.out.println("Name: " + name + " User Id: " + " Company Name: " + CompanyName + " Address " + Address + " Age " + age + " Position: " + position);
+        System.out.println("Name: " + name + " User Id: " + userId + " Company Name: " + CompanyName + " Address " + Address + " Age " + age + " Position: " + position);
     }
 
     public static void main(String[] args) {
