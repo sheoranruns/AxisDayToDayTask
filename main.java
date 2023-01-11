@@ -13,6 +13,9 @@ class Student {
     boolean exit = true;
     Scanner sc = new Scanner(System.in);
 
+    public Student(String name2, int age2, String place2, String college2) {
+    }
+
     public void addStudent(){
         if (i < list.length){
 
